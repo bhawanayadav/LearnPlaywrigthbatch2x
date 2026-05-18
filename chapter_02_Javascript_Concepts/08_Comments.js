@@ -1,5 +1,5 @@
 //var=10;
-var _o=20;
+
 /*
  tyg
  ewfew
@@ -7,7 +7,7 @@ var _o=20;
  erfcerfc
  ervfcerfv
  erfer
- */multi line comment
+ */multi line comment6
 // ujhrfvjebr
 // ujhrfvjebr
 // ujhrfvjebr
