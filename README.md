@@ -17,6 +17,17 @@ A comprehensive learning repository for mastering JavaScript fundamentals and Pl
 ### Chapter 3: Identifier Literals
 (Content to be added)
 
+### Chapter 4: JavaScript Concepts
+- **09_var_let_const.js** - Comparison of var, let, and const declarations
+- **10_function.js** - Function declarations and concepts
+- **11_Var_explained.js** - Deep dive into var behavior and scoping
+- **12_let_explanation.js** - Understanding let and block scoping
+- **13_Constant.js** - Working with constants and immutability
+- **14_var_functionscope.js** - Function scope behavior with var
+- **15_let_Scope.js** - Block scope behavior with let
+- **16_hosting.js** - Hoisting concepts in JavaScript
+- **hoisting_fn.js** - Function hoisting examples
+
 ## 🎯 Learning Objectives
 
 - Master JavaScript fundamentals
