@@ -101,3 +101,7 @@ This project is open source and available for educational purposes.
 ---
 
 **Happy Learning!** 🎉
+
+## Changelog
+
+- 2026-05-21: Added clearer examples for logical operators in [chapter_06_Operator/39_Logical operator.js](chapter_06_Operator/39_Logical operator.js#L1-L40). 
