@@ -84,6 +84,21 @@ A comprehensive learning repository for mastering JavaScript fundamentals and Pl
 ### Chapter 9: User Input
 - **68_userinput.js** - Reading and using user input in JavaScript
 
+### Chapter 10: Loops
+- **71_for_loop.js** - Basic for loop examples
+- **72_for_loop.js** - For loop variations
+- **73_for_loop2.js** - Nested and incremental loops
+- **73_IQ.js** - Loop practice questions
+- **74_IQ.js** - More loop quiz examples
+- **75_for_of_in_each.js** - for...of and for...in loop examples
+- **76_Whileloop.js** - While loop concepts and examples
+- **77_dowhileloop.js** - do...while loop examples
+- **78_dowhileauto.js** - do...while automatic execution example
+- **79_IQ.js** - Loop quiz and problem solving
+- **80_IQ.js** - Advanced loop practice questions
+- **81_IQ.js** - Loop examples for beginners
+- **82_IQ.js** - Additional loop practice questions
+
 ## 🎯 Learning Objectives
 
 - Master JavaScript fundamentals
@@ -160,5 +175,6 @@ This project is open source and available for educational purposes.
 
 ## Changelog
 
+- 2026-05-26: Added Chapter 10 loop examples and updated README to reflect the current repository structure.
 - 2026-05-25: Updated README with new Chapter 5, Chapter 6, Chapter 7, and Chapter 8 examples.
 - 2026-05-21: Added clearer examples for logical operators in [chapter_06_Operator/39_Logical operator.js](chapter_06_Operator/39_Logical operator.js#L1-L40).
