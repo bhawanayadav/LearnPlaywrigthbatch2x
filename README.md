@@ -26,7 +26,63 @@ A comprehensive learning repository for mastering JavaScript fundamentals and Pl
 - **14_var_functionscope.js** - Function scope behavior with var
 - **15_let_Scope.js** - Block scope behavior with let
 - **16_hosting.js** - Hoisting concepts in JavaScript
-- **hoisting_fn.js** - Function hoisting examples
+- **17_hoisting_fn.js** - Function hoisting examples
+- **18_let_hoisting.js** - let and hoisting behavior
+- **19_let_hoisting_block.js** - Block-level hoisting behavior
+- **20_let_const.js** - Differences between let and const
+
+### Chapter 5: Literals
+- **22_Literal.js** - Literal values and types overview
+- **23_null_undefined.js** - Difference between null and undefined
+- **24_null.js** - Working with null values
+- **25_literal_all.js** - Literal examples across data types
+- **26_Literal_Number_All.js** - Number literal usage
+- **27_String.js** - String literal examples
+- **28_template literal.js** - Template literal syntax and interpolation
+- **29_backtick_single_double.js** - Backticks vs single/double quotes
+
+### Chapter 6: Operators
+- **30_Operator.js** - Operator overview
+- **31_Arithmetic_operator.js** - Arithmetic operators
+- **32_modulus_operator.js** - Modulus operator examples
+- **33_exponential_operator.js** - Exponentiation operator
+- **34_IQ.js** - Operator practice questions
+- **35_Comparision_operator.js** - Comparison operators
+- **36_Comaprision_strictvsloose.js** - Strict vs loose equality
+- **37_IQ_LOOSE_STRICT.JS** - Equality quiz examples
+- **38_Confusing_comparision.js** - Edge cases in comparison
+- **39_Logical operator.js** - Logical operator usage
+- **40_String_operator.js** - String concatenation operators
+- **41_Ternary_operator.js** - Ternary operator examples
+- **42_Type_operator.js** - typeof and type checks
+- **43_Increment_Decrement_operator.js** - Increment and decrement operators
+- **44_Null_operator.js** - Nullish coalescing operator
+- **45_postincrement.js** - Post-increment examples
+- **46_IQ_INCREMENT.js** - Increment/decrement quiz
+- **47_ADVANCE_ID.js** - Advanced increment/decrement examples
+
+### Chapter 7: If / Else
+- **48_if_else.js** - Basic if/else statements
+- **49_eif_elseif_else.js** - else if usage examples
+- **50_real_example_if_else.js** - Real-world if/else example
+- **51_AP_IF_ELSE.js** - Applied if/else patterns
+- **52_IQ_ELSEIF.js** - else if quiz examples
+- **53_if_else user_name.js** - User name validation with if/else
+- **54_IQ.js** - If/else practice questions
+- **55_IE.js** - If/else coding examples
+- **56_evenorodd.js** - Even or odd number check
+- **57_gradecalculator.js** - Grade calculator using if/else
+- **58_leapyear.js** - Leap year checker
+
+### Chapter 8: Switch Statement
+- **59_switch.js** - Switch statement examples and usage
+- **60_nobreak.js** - Switch without break demonstration
+- **62_Realtime_example.js** - Real-time switch case example
+- **63_Switch_group.js** - Grouped switch case logic
+- **64_IQ.js** - Switch statement quiz
+
+### Chapter 9: User Input
+- **68_userinput.js** - Reading and using user input in JavaScript
 
 ## 🎯 Learning Objectives
 
@@ -104,4 +160,5 @@ This project is open source and available for educational purposes.
 
 ## Changelog
 
-- 2026-05-21: Added clearer examples for logical operators in [chapter_06_Operator/39_Logical operator.js](chapter_06_Operator/39_Logical operator.js#L1-L40). 
+- 2026-05-25: Updated README with new Chapter 5, Chapter 6, Chapter 7, and Chapter 8 examples.
+- 2026-05-21: Added clearer examples for logical operators in [chapter_06_Operator/39_Logical operator.js](chapter_06_Operator/39_Logical operator.js#L1-L40).
