@@ -109,6 +109,20 @@ A comprehensive learning repository for mastering JavaScript fundamentals and Pl
 - **89_Searching.js** - Searching arrays for values
 - **90_Iterate.js** - Iterating over arrays with loops and forEach
 - **91_Transform_Array.js** - Transforming arrays with methods
+- **92_Arrays.js** - Additional array examples
+- **93_Slicing.js** - Array slicing with slice
+- **94_Concat_array.js** - Array concatenation examples
+- **95_array_checking.js** - Array checking and validation methods
+
+### Chapter 12: Functions
+- **96_Function.js** - Basic function examples
+- **97_type1_fn_basic_fun.js** - Function type 1 basics
+- **98_type2_fn_with_param_no_return.js** - Parameterized functions without return
+- **99_type3_fn_without_Para_return_type.js** - Functions with return values
+- **100_Type4_fn_with_param_with_Return.js** - Functions with params and return
+- **101_template_literal.js** - Template literals in functions
+- **102_Fn_Expression.js** - Function expressions and anonymous functions
+- **103_Arrow_Fn.js** - Arrow function examples
 
 ## 🎯 Learning Objectives
 
@@ -186,6 +200,7 @@ This project is open source and available for educational purposes.
 
 ## Changelog
 
+- 2026-06-08: Added Chapter 11 array checking examples and Chapter 12 functions examples; updated README with the latest examples.
 - 2026-06-08: Added Chapter 11 array examples and updated README with the latest examples.
 - 2026-05-26: Added Chapter 10 loop examples and updated README to reflect the current repository structure.
 - 2026-05-25: Updated README with new Chapter 5, Chapter 6, Chapter 7, and Chapter 8 examples.
