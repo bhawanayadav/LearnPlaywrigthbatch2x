@@ -99,6 +99,17 @@ A comprehensive learning repository for mastering JavaScript fundamentals and Pl
 - **81_IQ.js** - Loop examples for beginners
 - **82_IQ.js** - Additional loop practice questions
 
+### Chapter 11: Arrays
+- **83_arrays.js** - Array creation and basic operations
+- **84_array2.js** - Array manipulation examples
+- **85_Access_array.js** - Accessing array elements
+- **86_addingandremove.js** - Adding and removing array items
+- **87_addremovepart2.js** - More add/remove examples
+- **88_real_example.js** - Real-world array example
+- **89_Searching.js** - Searching arrays for values
+- **90_Iterate.js** - Iterating over arrays with loops and forEach
+- **91_Transform_Array.js** - Transforming arrays with methods
+
 ## 🎯 Learning Objectives
 
 - Master JavaScript fundamentals
@@ -175,6 +186,7 @@ This project is open source and available for educational purposes.
 
 ## Changelog
 
+- 2026-06-08: Added Chapter 11 array examples and updated README with the latest examples.
 - 2026-05-26: Added Chapter 10 loop examples and updated README to reflect the current repository structure.
 - 2026-05-25: Updated README with new Chapter 5, Chapter 6, Chapter 7, and Chapter 8 examples.
 - 2026-05-21: Added clearer examples for logical operators in [chapter_06_Operator/39_Logical operator.js](chapter_06_Operator/39_Logical operator.js#L1-L40).
