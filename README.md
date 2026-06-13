@@ -123,6 +123,20 @@ A comprehensive learning repository for mastering JavaScript fundamentals and Pl
 - **101_template_literal.js** - Template literals in functions
 - **102_Fn_Expression.js** - Function expressions and anonymous functions
 - **103_Arrow_Fn.js** - Arrow function examples
+- **104_Array_fn_real.js** - Array function examples
+- **105_IIFE.js** - Immediately invoked function expressions
+- **106_Default_Param_Fn.js** - Default parameter functions
+- **107_IQ.js** - Function practice questions
+- **108_Rest_param_Fn.js** - Rest parameter example
+- **109_IQ.js** - More function quiz examples
+- **110_Spread_IQ.js** - Spread operator in functions
+- **111_Scope.js** - Function scope examples
+- **112_iq.js** - Scope and nested function quiz
+- **113_Closure.js** - Closure examples
+- **114_Closure.js** - More closure practice
+- **115_API_Real_Closure.js** - API-style closure example
+- **116_Higher_Order_Fns.js** - Higher-order function examples
+- **117_Pure_Impur_Fns.js** - Pure vs impure functions
 
 ## 🎯 Learning Objectives
 
