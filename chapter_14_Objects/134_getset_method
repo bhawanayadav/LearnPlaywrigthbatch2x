@@ -1,0 +1,16 @@
+const user = {
+    firstname: "putta",
+    lastname: "bhawana",
+    get fullname() {
+        return `${this.firstname} ${this.lastname}`;
+    },
+    set fullname(value) {
+        const [first, last] = value.split(' ');
+        this.firstname = first || this.firstname;
+        this.lastname = last || this.lastname;
+    }
+};
+
+console.log(user.fullname);
+user.fullname = "adhyuth shanmukha";
+console.log(user.fullname);

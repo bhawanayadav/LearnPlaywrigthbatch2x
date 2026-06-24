@@ -1,0 +1,5 @@
+let str = "login_test_pass_001";
+console.log(str.slice(0, 5));
+console.log(str.slice(11));
+let test_number = str.slice(-3);
+console.log(test_number);

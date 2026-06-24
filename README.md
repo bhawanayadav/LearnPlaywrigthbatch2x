@@ -138,6 +138,29 @@ A comprehensive learning repository for mastering JavaScript fundamentals and Pl
 - **116_Higher_Order_Fns.js** - Higher-order function examples
 - **117_Pure_Impur_Fns.js** - Pure vs impure functions
 
+### Chapter 13: Strings
+- **118_Strings.js** - Core string examples
+- **119_Sttring_Properties.js** - String property and method usage
+- **120_Search_Checking_String.js** - Searching strings and checks
+- **121_Substring.js** - Substring extraction examples
+- **122_transform_string.js** - String transformation and conversion
+- **123_string_conversion.js** - String method examples and conversions
+
+### Chapter 14: Objects
+- **124_objects.js** - Object basics and properties
+- **125_objkects2.js** - Object example variations
+- **126_object_creation.js** - Creating objects in JavaScript
+- **127_object_Real.js** - Real-world object examples
+- **128_primitive_ref.js** - Primitive vs reference behavior
+- **129_obj_ex.js** - Object example exercises
+- **130_IQ.js** - Object quiz examples
+- **131_object_fns.js** - Object functions and methods
+- **132_object_deconstructor.js** - Object destructuring examples
+- **133_spread.js** - Spread operator with objects
+- **134_getset_method** - Getter/setter object example
+- **135_IQ.js** - Additional object quiz examples
+- **136_obj_real.js** - Real object examples and use-cases
+
 ## 🎯 Learning Objectives
 
 - Master JavaScript fundamentals
