@@ -161,6 +161,13 @@ A comprehensive learning repository for mastering JavaScript fundamentals and Pl
 - **135_IQ.js** - Additional object quiz examples
 - **136_obj_real.js** - Real object examples and use-cases
 
+### Chapter 20: TypeScript Basic
+- **package.json** - Enables ES module support for the TypeScript examples
+- **testutils.js** - Shared utility module exports
+- **Export_Import/168_export_import.js** - Example of importing/exporting functions
+- **logger.js** - Logger helper module example
+- **utils.js** - Utility module examples
+
 ## 🎯 Learning Objectives
 
 - Master JavaScript fundamentals
