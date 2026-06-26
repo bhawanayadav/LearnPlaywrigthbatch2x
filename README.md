@@ -167,6 +167,7 @@ A comprehensive learning repository for mastering JavaScript fundamentals and Pl
 - **Export_Import/168_export_import.js** - Example of importing/exporting functions
 - **logger.js** - Logger helper module example
 - **utils.js** - Utility module examples
+- **02_Class_Object/179_Calculator.js** - Calculator class example using instance methods and static variables
 
 ## 🎯 Learning Objectives
 
@@ -244,6 +245,7 @@ This project is open source and available for educational purposes.
 
 ## Changelog
 
+- 2026-06-26: Added a calculator class example with static members and updated the README to include it.
 - 2026-06-08: Added Chapter 11 array checking examples and Chapter 12 functions examples; updated README with the latest examples.
 - 2026-06-08: Added Chapter 11 array examples and updated README with the latest examples.
 - 2026-05-26: Added Chapter 10 loop examples and updated README to reflect the current repository structure.
