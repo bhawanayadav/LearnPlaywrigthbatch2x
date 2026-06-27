@@ -168,6 +168,7 @@ A comprehensive learning repository for mastering JavaScript fundamentals and Pl
 - **logger.js** - Logger helper module example
 - **utils.js** - Utility module examples
 - **02_Class_Object/179_Calculator.js** - Calculator class example using instance methods and static variables
+- **04_inheritance/191_Hierarical.js** - Hierarchical inheritance example showing a base class with multiple derived classes
 
 ## 🎯 Learning Objectives
 
@@ -245,6 +246,7 @@ This project is open source and available for educational purposes.
 
 ## Changelog
 
+- 2026-06-27: Added hierarchical inheritance example in Chapter 20 and updated README to document it.
 - 2026-06-26: Added a calculator class example with static members and updated the README to include it.
 - 2026-06-08: Added Chapter 11 array checking examples and Chapter 12 functions examples; updated README with the latest examples.
 - 2026-06-08: Added Chapter 11 array examples and updated README with the latest examples.
